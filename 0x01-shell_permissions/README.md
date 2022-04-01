@@ -1,1 +1,1 @@
-shell permissions
+first read
